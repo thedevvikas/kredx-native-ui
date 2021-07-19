@@ -13,7 +13,7 @@
     "native-ui",
     "kredx-design"
   ],
-  "private": true,
+  "private": false,
   "license": "ISC",
   "source": "src/index",
   "dependencies": {
