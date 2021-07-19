@@ -16,10 +16,10 @@ styled-components
 styled-syste
 ```
 ```
-yarn add kredx-native-ui-testflight react-native-safe-area-context react-native-svg styled-components styled-syste
+yarn add react-native-safe-area-context react-native-svg styled-components styled-syste
 ```
 or
 ```
-npm install kredx-native-ui-testflight react-native-safe-area-context react-native-svg styled-components styled-syste
+npm install react-native-safe-area-context react-native-svg styled-components styled-syste
 ```
 
